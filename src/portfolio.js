@@ -54,7 +54,7 @@ const skills = {
   data: [
     {
       title: "AI & Data Analytics",
-      fileName: "undraw_analytics_re_dkf8",
+      fileName: "DataScienceImg",
       skills: [
         "⚡ Developing AI-powered solutions for finance, credit, and business operations.",
         "⚡ Using Python for automation, data analysis, and building decision systems.",
@@ -85,7 +85,7 @@ const skills = {
     },
     {
       title: "Web & Programming",
-      fileName: "undraw_programming_re_kg9v",
+      fileName: "FullStackImg",
       skills: [
         "⚡ Building and managing websites using WordPress, HTML, CSS, and JavaScript.",
         "⚡ Applying SEO and keyword optimization to improve digital reach.",
@@ -257,13 +257,13 @@ const projectsHeader = {
   title: "Projects",
   description:
     "My projects showcase my skills in AI, data analytics, and web development. I enjoy building tools that solve real-world problems and provide actionable insights.",
-  avatar_image_path: "undraw_project_completed_re_pddq.svg",
+  avatar_image_path: "projects_image.svg",
 };
 
 const publicationsHeader = {
   title: "Key Projects",
   description: "Here are a few of my key projects.",
-  avatar_image_path: "undraw_project_completed_re_pddq.svg",
+  avatar_image_path: "projects_image.svg",
 };
 
 const publications = {
@@ -299,7 +299,7 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "undraw_personal_email_re_4adw.svg",
+    profile_image_path: "contactMail.png",
     description:
       "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
   },
