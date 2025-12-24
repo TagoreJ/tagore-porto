@@ -54,7 +54,7 @@ const skills = {
   data: [
     {
       title: "AI & Data Analytics",
-      fileName: "DataScienceImg",
+      fileName: "undraw_analytics_re_dkf8",
       skills: [
         "⚡ Developing AI-powered solutions for finance, credit, and business operations.",
         "⚡ Using Python for automation, data analysis, and building decision systems.",
@@ -63,29 +63,29 @@ const skills = {
       softwareSkills: [
         {
           skillName: "Python",
-          fontAwesomeClassname: "logos-python",
+          fontAwesomeClassname: "logos:python",
         },
         {
           skillName: "R Programming",
-          fontAwesomeClassname: "logos-r-lang",
+          fontAwesomeClassname: "logos:r-lang",
         },
         {
           skillName: "Tableau",
-          fontAwesomeClassname: "logos-tableau",
+          fontAwesomeClassname: "logos:tableau-icon",
         },
         {
           skillName: "Power BI",
-          fontAwesomeClassname: "logos-power-bi",
+          fontAwesomeClassname: "logos:power-bi",
         },
         {
           skillName: "Hadoop",
-          fontAwesomeClassname: "logos-hadoop",
+          fontAwesomeClassname: "logos:hadoop",
         },
       ],
     },
     {
       title: "Web & Programming",
-      fileName: "FullStackImg",
+      fileName: "undraw_programming_re_kg9v",
       skills: [
         "⚡ Building and managing websites using WordPress, HTML, CSS, and JavaScript.",
         "⚡ Applying SEO and keyword optimization to improve digital reach.",
@@ -94,39 +94,23 @@ const skills = {
       softwareSkills: [
         {
           skillName: "HTML5",
-          fontAwesomeClassname: "simple-icons:html5",
-          style: {
-            color: "#E34F26",
-          },
+          fontAwesomeClassname: "vscode-icons:file-type-html",
         },
         {
           skillName: "CSS3",
-          fontAwesomeClassname: "fa-css3",
-          style: {
-            color: "#1572B6",
-          },
+          fontAwesomeClassname: "vscode-icons:file-type-css",
         },
         {
           skillName: "JavaScript",
-          fontAwesomeClassname: "simple-icons:javascript",
-          style: {
-            backgroundColor: "#000000",
-            color: "#F7DF1E",
-          },
+          fontAwesomeClassname: "vscode-icons:file-type-js-official",
         },
         {
           skillName: "WordPress",
-          fontAwesomeClassname: "simple-icons:wordpress",
-          style: {
-            color: "#21759B",
-          },
+          fontAwesomeClassname: "logos:wordpress-icon",
         },
         {
           skillName: "Git & GitHub",
-          fontAwesomeClassname: "simple-icons:github",
-          style: {
-            color: "#181717",
-          },
+          fontAwesomeClassname: "logos:git-icon",
         },
       ],
     },
@@ -273,13 +257,13 @@ const projectsHeader = {
   title: "Projects",
   description:
     "My projects showcase my skills in AI, data analytics, and web development. I enjoy building tools that solve real-world problems and provide actionable insights.",
-  avatar_image_path: "projects_image.svg",
+  avatar_image_path: "undraw_project_completed_re_pddq.svg",
 };
 
 const publicationsHeader = {
   title: "Key Projects",
   description: "Here are a few of my key projects.",
-  avatar_image_path: "projects_image.svg",
+  avatar_image_path: "undraw_project_completed_re_pddq.svg",
 };
 
 const publications = {
@@ -315,7 +299,7 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "undraw_personal_email_re_4adw.svg",
     description:
       "I am available on social media and email. Feel free to reach out. I can help with projects related to AI, Finance, Analytics, and Web Development.",
   },
@@ -323,7 +307,7 @@ const contactPageData = {
     title: "Blog",
     subtitle: "I document my journey and share technical insights on my blog.",
     link: "#",
-    avatar_image_path: "blogs_image.svg",
+    avatar_image_path: "undraw_blog_post_re_fyx2.svg",
   },
   addressSection: {
     title: "Address",
@@ -333,7 +317,7 @@ const contactPageData = {
     region: "Karnataka",
     postalCode: "",
     streetAddress: "",
-    avatar_image_path: "address_image.svg",
+    avatar_image_path: "undraw_road_sign_re_3kc3.svg",
     location_map_link: "https://goo.gl/maps/example",
   },
   phoneSection: {
