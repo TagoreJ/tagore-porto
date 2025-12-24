@@ -117,7 +117,6 @@ const skills = {
   ],
 };
 
-
 // Education Page
 const competitiveSites = {
   competitiveSites: [
@@ -302,28 +301,24 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "undraw_personal_email_re_4adw.svg",
     description:
-      "I am available on social media and email. Feel free to reach out. I can help with projects related to AI, Finance, Analytics, and Web Development.",
+      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
   },
   blogSection: {
-    title: "Blog",
-    subtitle: "I document my journey and share technical insights on my blog.",
-    link: "#",
-    avatar_image_path: "undraw_blog_post_re_fyx2.svg",
+    title: "Blogs",
+    subtitle:
+      "For individual projects, I write blogs about my learnings and journey.",
+    link: "https://blogs.ashutoshhathidara.com/",
+    avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
     title: "Address",
-    subtitle: "Bengaluru, India",
-    locality: "Bengaluru",
-    country: "IN",
-    region: "Karnataka",
-    postalCode: "",
-    streetAddress: "",
-    avatar_image_path: "undraw_road_sign_re_3kc3.svg",
-    location_map_link: "https://goo.gl/maps/example",
+    subtitle: "Ambavadi vas, Kanodar, Gujarat",
+    avatar_image_path: "address_image.svg",
+    location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
   },
   phoneSection: {
     title: "Phone Number",
-    subtitle: "+91 6303561878",
+    subtitle: "+91 8320769337",
   },
 };
 
