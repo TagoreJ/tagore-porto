@@ -26,7 +26,7 @@ class Contact extends Component {
             <div className="contact-heading-div">
               <div className="contact-heading-img-div">
                 <img
-                  src={require(`../../assets/images/${ContactData["profile_image_path"]}`)}
+                  src={require(`../../assets/images/undraw_personal_email_re_4adw.svg`)}
                   alt=""
                 />
               </div>
@@ -77,22 +77,20 @@ class Contact extends Component {
                 </div>
               </div>
               <div className="blog-heading-img-div">
-                {/* <img
-											src={require(`../../assets/images/${blogSection["avatar_image_path"]}`)}
-											alt=""
-										/> */}
-                <BlogsImg theme={theme} />
+                <img
+                  src={require(`../../assets/images/blogs_image.svg`)}
+                  alt=""
+                />
               </div>
             </div>
           </Fade>
           <Fade bottom duration={1000} distance="40px">
             <div className="address-heading-div">
               <div className="contact-heading-img-div">
-                {/* <img
-											src={require(`../../assets/images/${addressSection["avatar_image_path"]}`)}
-											alt=""
-										/> */}
-                <AddressImg theme={theme} />
+                <img
+                  src={require(`../../assets/images/address_image.svg`)}
+                  alt=""
+                />
               </div>
               <div className="address-heading-text-div">
                 <h1
